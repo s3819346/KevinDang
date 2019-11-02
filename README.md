@@ -41,11 +41,15 @@
 								</div>
 								<div class="container">
 									<header class="major">
-										<h2>Read Only</h2>
-										<p>Just an incredibly simple responsive site<br />
-										template freebie by <a href="http://html5up.net">HTML5 UP</a>.</p>
+										<h2>Personal information</h2>
+									
 									</header>
-									<p>Faucibus sed lobortis aliquam lorem blandit. Lorem eu nunc metus col. Commodo id in arcu ante lorem ipsum sed accumsan erat praesent faucibus commodo ac mi lacus. Adipiscing mi ac commodo. Vis aliquet tortor ultricies non ante erat nunc integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum.</p>
+									<h2>Student ID:s3819346<h/h2>
+									<h2>Email address: kevindang2705@gmail.com<h/h2>
+									<h2>Nationality:Vietnamese<h/h2>
+									<p>Hobby: I love playing video games, especially a fast pace shooter game such as CS:GO or Call of Duty, I am also addicted to listening to music and watching movies mainly fantasy or action type of genres</p>
+									
+									
 								</div>
 							</section>
 
