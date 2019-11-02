@@ -1,4 +1,3 @@
-<!DOCTYPE HTML>
 <html>
 	<head>
 		<title>Kevin Dang Personal website</title>
@@ -44,9 +43,9 @@
 										<h2>Personal information</h2>
 									
 									</header>
-									<h2>Student ID:s3819346<h/h2>
-									<h2>Email address: kevindang2705@gmail.com<h/h2>
-									<h2>Nationality:Vietnamese<h/h2>
+									<h4>Student ID:s3819346</h4>
+									<h4>Email address: kevindang2705@gmail.com</h4>
+									<h4>Nationality:Vietnamese</h4>
 									<p>Hobby: I love playing video games, especially a fast pace shooter game such as CS:GO or Call of Duty, I am also addicted to listening to music and watching movies mainly fantasy or action type of genres</p>
 									
 									
