@@ -83,12 +83,12 @@
                                                  <!-- Four -->
 							<section id="four">
 								<div class="container">
-									<h7>Personal profile</h7>
+									<h3>Personal profile</h3>
 									<p>I think that the results from the 16PersonalitiesTest are fairly accurate and it shows that I am a Mediator which is an introvert, an intuitive type of person and also has a turbulent personality but only when it reaches the limit. This makes Mediators became such a distinct character in comparison to others, which sometimes they could be misunderstood. However, when they find like-minded people who they can relate to, you can think of Mediators as a friend who is full of entertainment and inspiration. 
 Working in a group with a Mediator can be difficult at first but and may take a while to fit in but when they do fit in, they will cooperate smoothly with the team. As for myself, I think I will listen to other people's ideas in the group before jumping into a conclusion.</p>
 							        <div class="features">
-	                                                  </div>
-	                                                      </section>
+	                                                             </div>
+	                                                     </section>
 			
 						<!-- Five -->
 							<section id="five">
