@@ -88,13 +88,12 @@
 Working in a group with a Mediator can be difficult at first but and may take a while to fit in but when they do fit in, they will cooperate smoothly with the team. As for myself, I think I will listen to other people's ideas in the group before jumping into a conclusion.</p>
 							        <div class="features">
 	                                                             </div>
-	                                                     </section>
+	                                                     
 			
 						<!-- Five -->
 							<section id="five">
 								<div class="container">
 									<h3>Project ideas</h3>
 									
+							
 
-      </body>									
-</html>
