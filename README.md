@@ -72,12 +72,12 @@
 									<p>As I mentioned earlier, I would love to have a job in the information security department. I have found out an offer for this position at Home Credit Vietnam, which is an international corporation that provides financial support for people with little or no experience of lending. To secure a job at information security, I need to satisfied these requirements:</p>
 									<div class="features">
 	<ul>
-     <li>About 2 years of experience operating application and testing websites.<li/> 
-     <li>Thoroughly understand the design of web/mobile patterns and importance architecture.<li/> 
-     <li>Distinguished knowledge of web security field.<li/> 
-     <li>Acquaintance with Open Web Application Security Project (OWASP).<li/> 
-     <li>I have to have experience in programming Python, Java, PowerShell.<li/> 
-     <li>Evaluate and select from a variety of penetration testing tools.<li/>  
+     <li>About 2 years of experience operating application and testing websites.</li> 
+     <li>Thoroughly understand the design of web/mobile patterns and importance architecture.</li> 
+     <li>Distinguished knowledge of web security field.</li> 
+     <li>Acquaintance with Open Web Application Security Project (OWASP).</li> 
+     <li>I have to have experience in programming Python, Java, PowerShell.</li> 
+     <li>Evaluate and select from a variety of penetration testing tools.</li>  
       <h2>This is a link to the website for further details:<a href="https://itviec.com/it-jobs/it-information-security-home-credit-vietnam-2435">Link<a/> <h2/>
       
                                                  <!-- Four -->
