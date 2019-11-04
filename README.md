@@ -68,8 +68,8 @@
 						<!-- Three -->
 							<section id="three">
 								<div class="container">
-									<h3>A Few Accomplishments</h3>
-									<p>Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum integer. Integer eu ante ornare amet commetus.</p>
+									<h3>Ideal job</h3>
+									<p>As I mentioned earlier, I would love to have a job in the information security department. I have found out an offer for this position at Home Credit Vietnam, which is an international corporation that provides financial support for people with little or no experience of lending. To secure a job at information security, I need to satisfied these requirements:</p>
 									<div class="features">
 										<article>
 											<a href="#" class="image"><img src="images/pic01.jpg" alt="" /></a>
