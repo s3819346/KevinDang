@@ -15,7 +15,7 @@
 					<p>"I am new to programming but very intersted in this major."</p>
 	                          
 				</header>
-	</body>			
+	<body>			
 				<nav id="nav">
 					<ul>
 						<li><a href="#one" class="active">Personal Information</a></li>
@@ -97,5 +97,5 @@ Working in a group with a Mediator can be difficult at first but and may take a 
 									<h3>Project ideas</h3>
 									
 
-</body>									
+     </body>									
 </html>
