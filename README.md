@@ -83,8 +83,8 @@
                                                  <!-- Four -->
 							<section id="four">
 								<div class="container">
-									<h6>Personal profile</h6>
-									<p>I think that the results from the 16PersonalitiesTest are fairly accurate and it shows that I am a Mediator which is an introvert, an intuitive type of person and also has a turbulent personality but only when it reaches the limit. This makes Mediators became such a distinct character in comparison to others, which sometimes they could be misunderstood. However, when they find like-minded people who they can relate to, you can think of Mediators as a friend who is full of entertainment and inspiration.</p>
+									<h7>Personal profile</h7>
+									<p><h8>I think that the results from the 16PersonalitiesTest are fairly accurate and it shows that I am a Mediator which is an introvert, an intuitive type of person and also has a turbulent personality but only when it reaches the limit. This makes Mediators became such a distinct character in comparison to others, which sometimes they could be misunderstood. However, when they find like-minded people who they can relate to, you can think of Mediators as a friend who is full of entertainment and inspiration.</h8></p>
 							        <div class="features">
 			
 						<!-- Five -->
