@@ -15,7 +15,7 @@
 					<p>"I am new to programming but very intersted in this major."</p>
 	                          
 				</header>
-	<body>			
+     <body>			
 				<nav id="nav">
 					<ul>
 						<li><a href="#one" class="active">Personal Information</a></li>
