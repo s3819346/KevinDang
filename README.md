@@ -43,9 +43,9 @@
 										<h2>Personal information</h2>
 									
 									</header>
-									<h4>Student ID:s3819346</h4>
-									<h4>Email address: kevindang2705@gmail.com</h4>
-									<h4>Nationality:Vietnamese</h4>
+									<h4>Student ID:</h4>s3819346
+									<h4>Email address:</h4> kevindang2705@gmail.com
+									<h4>Nationality:</h4>Vietnamese
 									<p>Hobby: I love playing video games, especially a fast pace shooter game such as CS:GO or Call of Duty, I am also addicted to listening to music and watching movies mainly fantasy or action type of genres</p>
 									
 									
