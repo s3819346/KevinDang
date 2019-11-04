@@ -80,48 +80,12 @@
      <li> Evaluate and select from a variety of penetration testing tools.<li/>  
       <h2>This is a link to the website for further details:<a href="https://itviec.com/it-jobs/it-information-security-home-credit-vietnam-2435">Link<a/> <h2/>
       
-     
-   
-										<article>
-											<a href="#" class="image"><img src="images/pic02.jpg" alt="" /></a>
-											<div class="inner">
-												<h4>Terraformed a small moon</h4>
-												<p>Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet.</p>
-											</div>
-										</article>
-										<article>
-											<a href="#" class="image"><img src="images/pic03.jpg" alt="" /></a>
-											<div class="inner">
-												<h4>Snapped dark matter in the wild</h4>
-												<p>Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet.</p>
-											</div>
-										</article>
-									</div>
-								</div>
-							</section>
-
-						<!-- Four -->
+                                                 <!-- Four -->
 							<section id="four">
 								<div class="container">
-									<h3>Contact Me</h3>
-									<p>Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum integer. Integer eu ante ornare amet commetus.</p>
-									<form method="post" action="#">
-										<div class="row gtr-uniform">
-											<div class="col-6 col-12-xsmall"><input type="text" name="name" id="name" placeholder="Name" /></div>
-											<div class="col-6 col-12-xsmall"><input type="email" name="email" id="email" placeholder="Email" /></div>
-											<div class="col-12"><input type="text" name="subject" id="subject" placeholder="Subject" /></div>
-											<div class="col-12"><textarea name="message" id="message" placeholder="Message" rows="6"></textarea></div>
-											<div class="col-12">
-												<ul class="actions">
-													<li><input type="submit" class="primary" value="Send Message" /></li>
-													<li><input type="reset" value="Reset Form" /></li>
-												</ul>
-											</div>
-										</div>
-									</form>
-								</div>
-							</section>
-
+									<h3>Personal profile</h3>
+									<p>I think that the results from the 16PersonalitiesTest are fairly accurate and it shows that I am a Mediator which is an introvert, an intuitive type of person and also has a turbulent personality but only when it reaches the limit. This makes Mediators became such a distinct character in comparison to others, which sometimes they could be misunderstood. However, when they find like-minded people who they can relate to, you can think of Mediators as a friend who is full of entertainment and inspiration.</p>
+			
 						<!-- Five -->
 						<!--
 							<section id="five">
