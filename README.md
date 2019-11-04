@@ -78,7 +78,8 @@
      <li>	Acquaintance with Open Web Application Security Project (OWASP).<li/> 
      <li>	I have to have experience in programming Python, Java, PowerShell.<li/> 
      <li> Evaluate and select from a variety of penetration testing tools.<li/>  
-      <h2>This is a link to the website for further details:<a href="https://itviec.com/it-jobs/it-information-security-home-credit-vietnam-2435">Link<a/> <h2/></ul>
+      <h2>This is a link to the website for further details:<a href="https://itviec.com/it-jobs/it-information-security-home-credit-vietnam-2435">Link<a/> <h2/>
+      
      
    
 										<article>
