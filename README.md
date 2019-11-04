@@ -72,19 +72,19 @@
 									<p>As I mentioned earlier, I would love to have a job in the information security department. I have found out an offer for this position at Home Credit Vietnam, which is an international corporation that provides financial support for people with little or no experience of lending. To secure a job at information security, I need to satisfied these requirements:</p>
 									<div class="features">
 	<ul>
-     <li>	About 2 years of experience operating application and testing websites.<li/> 
-     <li>	Thoroughly understand the design of web/mobile patterns and importance architecture.<li/> 
-     <li>	Distinguished knowledge of web security field.<li/> 
-     <li>	Acquaintance with Open Web Application Security Project (OWASP).<li/> 
-     <li>	I have to have experience in programming Python, Java, PowerShell.<li/> 
-     <li> Evaluate and select from a variety of penetration testing tools.<li/>  
+     <li>About 2 years of experience operating application and testing websites.<li/> 
+     <li>Thoroughly understand the design of web/mobile patterns and importance architecture.<li/> 
+     <li>Distinguished knowledge of web security field.<li/> 
+     <li>Acquaintance with Open Web Application Security Project (OWASP).<li/> 
+     <li>I have to have experience in programming Python, Java, PowerShell.<li/> 
+     <li>Evaluate and select from a variety of penetration testing tools.<li/>  
       <h2>This is a link to the website for further details:<a href="https://itviec.com/it-jobs/it-information-security-home-credit-vietnam-2435">Link<a/> <h2/>
       
                                                  <!-- Four -->
 							<section id="four">
 								<div class="container">
 									<h3>Personal profile</h3>
-									<p>I think that the results from the 16PersonalitiesTest are fairly accurate and it shows that I am a Mediator which is an introvert, an intuitive type of person and also has a turbulent personality but only when it reaches the limit. This makes Mediators became such a distinct character in comparison to others, which sometimes they could be misunderstood. However, when they find like-minded people who they can relate to, you can think of Mediators as a friend who is full of entertainment and inspiration.</p>
+									<h4><p>I think that the results from the 16PersonalitiesTest are fairly accurate and it shows that I am a Mediator which is an introvert, an intuitive type of person and also has a turbulent personality but only when it reaches the limit. This makes Mediators became such a distinct character in comparison to others, which sometimes they could be misunderstood. However, when they find like-minded people who they can relate to, you can think of Mediators as a friend who is full of entertainment and inspiration.</p></h4>
 			
 						<!-- Five -->
 						<!--
