@@ -5,7 +5,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
 	</head>
-	<body>
+	
 
 		<!-- Header -->
 			<section id="header">
@@ -15,6 +15,7 @@
 					<p>"I am new to programming but very intersted in this major."</p>
 	                          
 				</header>
+	</body>			
 				<nav id="nav">
 					<ul>
 						<li><a href="#one" class="active">Personal Information</a></li>
