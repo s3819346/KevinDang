@@ -61,14 +61,7 @@
 									<p>In today's world, there is a lot of problems that relate to information leakage and that creates a huge exposure of user's data on the Internet unintentionally or sometimes on purpose. It could lead to the disclosure of sensitive data about a person's life, address, phone numbers or where do they live. Perhaps have a greater impact if a company's private project or design gets expose online, it would cause a lot of damage to the company's reputation. Therefore, I think it is my duty to pursue cybersecurity, it demonstates how we can avoid and counter if someone is trying to exploit the data and then prevent that from happening.</p>
 									<p>The reason why I chose RMIT Saigon is that the infrastructure of this university is the best there is, and also studying in the international environment prepares me with a lot of useful skills and helps to elevate my communication skills. And there is a great chance that after you finish the program you have better opportunities than students at other universities in Vietnam.</p>
 									<p>After the Bachelor of IT course, I hope that I could be more confident and have no problem with coding and understand all about the coding language that I need, also an improvement of my lack of communication and social skills.</p>
-									<ul class="feature-icons">
-										<li class="icon solid fa-code">Write all the code</li>
-										<li class="icon solid fa-cubes">Stack small boxes</li>
-										<li class="icon solid fa-book">Read books and stuff</li>
-										<li class="icon solid fa-coffee">Drink much coffee</li>
-										<li class="icon solid fa-bolt">Lightning bolt</li>
-										<li class="icon solid fa-users">Shadow clone technique</li> 				
-										</ul>
+									
 								</div>
 							</section>
 
