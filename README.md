@@ -94,6 +94,7 @@ Working in a group with a Mediator can be difficult at first but and may take a 
 							<section id="five">
 								<div class="container">
 									<h3>Project ideas</h3>
-
 									
+
+</body>									
 </html>
