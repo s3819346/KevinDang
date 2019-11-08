@@ -53,7 +53,8 @@
 								</div>
 								<div class="container">
 									<header class="major">
-									 <ul>
+									<h3>Personal information</h3>
+									<ul>
 										 <li>Name: Dang Anh Huy (Kevin)</li>
 										 <li>Student ID: s3819346</li>
 										 <li>Email address: kevindang2705@gmail.com</li>
@@ -114,6 +115,7 @@
 								<li>I have to have experience in programming Python, Java, PowerShell.</li>
 								<li>Evaluate and select from a variety of penetration testing tools.</li>
 							</ul>
+							<h4>This is a link to the website for further details: </h4><a href="https://itviec.com/it-jobs/it-information-security-home-credit-vietnam-2435">
 
 						<!-- Four -->
 							<section id="four">
