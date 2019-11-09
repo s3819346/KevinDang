@@ -49,7 +49,7 @@
 						<!-- One -->
 							<section id="one">
 								<div class="image main" data-position="center">
-									<img src="images/Background.JPG" alt="" />
+									<img src="images/Background.JPG" alt="Background Pic" >
 								</div>
 								<div class="container">
 									<header class="major">
