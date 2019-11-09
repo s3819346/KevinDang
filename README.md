@@ -1,4 +1,5 @@
 
+<!DOCTYPE HTML>
 <!--
 	Read Only by HTML5 UP
 	html5up.net | @ajlkn
@@ -49,7 +50,7 @@
 						<!-- One -->
 							<section id="one">
 								<div class="image main" data-position="center">
-									<img src="images/Background.JPG" alt="Background Pic" >
+									<img src="images/Background.JPG" alt="" />
 								</div>
 								<div class="container">
 									<header class="major">
@@ -116,7 +117,7 @@
 								<li>Evaluate and select from a variety of penetration testing tools.</li>
 							</ul>
 							<img src="images/sample.jpg" alt="Job" width=200 height=400>
-							<h4>This is a link to the website for further details: </h4><a href="https://itviec.com/it-jobs/it-information-security-home-credit-vietnam-2435">
+							<h4>This is a link to the website for further details: </h4><a href="https://itviec.com/it-jobs/it-information-security-home-credit-vietnam-2435"></a>
 
 						<!-- Four -->
 							<section id="four">
