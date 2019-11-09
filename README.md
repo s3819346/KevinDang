@@ -115,7 +115,7 @@
 								<li>I have to have experience in programming Python, Java, PowerShell.</li>
 								<li>Evaluate and select from a variety of penetration testing tools.</li>
 							</ul>
-							<img src="sample.jpg" alt="Job">
+							<img src="images/sample.jpg" alt="Job" width=200 height=400>
 							<h4>This is a link to the website for further details: </h4><a href="https://itviec.com/it-jobs/it-information-security-home-credit-vietnam-2435">
 
 						<!-- Four -->
